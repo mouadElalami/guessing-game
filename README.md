@@ -1,5 +1,5 @@
-# Guessing Game Project
-Generated on: Mon Nov 18 2024
+                        # Guessing Game Project
+
 
 ## Description
 This project is a simple Bash script that asks the user to guess the number of files in the current directory.
